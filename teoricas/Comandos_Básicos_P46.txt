@@ -1,0 +1,27 @@
+cat  arq                mostra o  conteúdo  de  arq  ou  da entrada  padrão
+cd  dir                 troca  o diretório atual  para  o  diretório dir
+cmp  arq1  arq2         compara  arq1  e  arq2  byte a  byte                  
+cp  arq1  arq2          copia o  arq1  para o arq2
+cp arq(s) dir           copia arq(s) para o diretório dir
+date                    mostra a  data  e  a hora  do  sistema
+diff  arq1  arq2        compara  arq1  e  arq2  linha  a  linha               
+echo  args              imprime  args
+enscript arq            converte arquivos-texto  para PostScript, HTML, RTF,  ANSI  e  outros 
+fmt arq                 formata arq
+gprof  arq              fornece um perﬁl de execução do programa arq
+indent arq              faz  a  indentação  correta  de um  programa  na linguagem  C  em arq
+info  cmd               mostra a  página  (mais completa) de manual de cmd
+ls  arq(s)              lista arq(s)
+ls  dir                 lista os arquivos no diretório dir  ou  no  diretório  atual
+man cmd                 mostra  a  página de  manual  de cmd
+mkdir  dir(s)           cria  diretório(s) dir(s)
+mv  arq1  arq2          move/renomeia  o  arq1  para  o arq2 
+mv  arq(s)  dir         move arq(s)  para  o diretório dir
+pwd                     mostra o  nome  do  diretório  atual 
+pr  arq                 converte  arq, do tipo texto, para  impressão
+rm  arq(s)              remove arq(s)
+rmdir  dir(s)           remove  diretórios vazios dir(s)
+sort  arq(s)            ordena as  linhas  de  arq(s)  ou  da  entrada  padrão
+wc arq(s)               conta o número de linhas, palavras e caracteres em arq(s) ou na entrada padrão
+who                     imprime a  identiﬁcação do  usuário do  computador
+ls    *[a-z]            onde o argumento representa os nomes dos arquivos que terminam com uma das 26 letras do alfabeto.
